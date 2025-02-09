@@ -5,7 +5,7 @@
 
 ## About
 
-This module introduces policy writing. Throughout the module you will learn what policies are and their importance, how to write an effective policy, and best practices to focus on. 
+This module introduces policy writing. Throughout the module you will learn what policies are and their importance, how to write an effective policy, and best practices to focus on.
 
 ## Content
 
