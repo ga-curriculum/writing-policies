@@ -16,8 +16,8 @@ theKeyElementsOfAnEffectivePolicy = new Template.Microlesson {
   videoUrl = ""
 }
 
-bestPracticesAndCommonPitfallsOfPolicyWriting = new Template.Microlesson {
-  friendlyName = "Best Practices and Common Pitfalls of Policy Writing"
+bestPracticesAndCommonPitfallsInPolicyWriting = new Template.Microlesson {
+  friendlyName = "Best Practices and Common Pitfalls in Policy Writing"
   dirName = "best-practices-and-common-pitfalls-in-policy-writing"
   type = "Content"
   videoUrl = ""
