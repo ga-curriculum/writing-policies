@@ -2,23 +2,23 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-policyWriting = new Template.Microlesson {
-  friendlyName = "What is Policy Writing and Why is it Important?"
-  dirName = "policy-writing"
+concepts = new Template.Microlesson {
+  friendlyName = "Concepts"
+  dirName = "concepts"
   type = "Content"
   videoUrl = ""
 }
 
-keyElements = new Template.Microlesson {
-  friendlyName = "Key Elements of an Effective Policy"
-  dirName = "key-elements"
+theKeyElementsOfAnEffectivePolicy = new Template.Microlesson {
+  friendlyName = "The Key Elements of an Effective Policy"
+  dirName = "the-key-elements-of-an-effective-policy"
   type = "Content"
   videoUrl = ""
 }
 
-bestPracticesAndPitfalls = new Template.Microlesson {
-  friendlyName = "Best Practices and Common Pitfalls"
-  dirName = "best-practices-and-pitfalls"
+bestPracticesAndPitfallsOfPolicyWriting = new Template.Microlesson {
+  friendlyName = "Best Practices and Pitfalls of Policy Writing"
+  dirName = "best-practices-and-pitfalls-of-policy-writing"
   type = "Content"
   videoUrl = ""
 }

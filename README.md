@@ -11,10 +11,14 @@ This module introduces policy writing. Throughout the module you will learn what
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [What is Policy Writing and Why is it Important?](./policy-writing/README.md)                    | 10 min | Define what policies are and their purpose.                |
-| [Key Elements of an Effective Policy](./key-elements/README.md) | 10 min | Analyze the key components of an effective policy, including clarity, structure, and enforceability.                |
-| [Best Practices and Common Pitfalls](./best-practices-and-pitfalls/README.md) | 10 min | Discuss best practices for writing policies that are actionable and aligned with organizational goals.               |
-| **Total content**                                   | 30 min |                                     |
+| [Concepts](./concepts/README.md)                                                                                         | 10 min | Define what policies are and their purpose.                                                            |
+| [The Key Elements of an Effective Policy](./the-key-elements-of-an-effective-policy/README.md)                           | 10 min | Analyze the key components of an effective policy, including clarity, structure, and enforceability.   |
+| [Best Practices and Common Pitfalls in Policy Writing](./best-practices-and-common-pitfalls-in-policy-writing/README.md) | 10 min | Discuss best practices for writing policies that are actionable and aligned with organizational goals. |
+| **Total content**                                                                                                        | 30 min |                                                                                                        |
+
+## References
+
+📖 [Reference Materials](./references/README.md)
 
 ## Internal
 

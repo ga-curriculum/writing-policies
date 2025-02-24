@@ -1,6 +1,6 @@
 <h1>
   <span class="headline">Writing Policies</span>
-  <span class="subhead">Understanding the Key Elements of an Effective Policy</span>
+  <span class="subhead">The Key Elements of an Effective Policy</span>
 </h1>
 
 **Learning objective:** By the end of this lesson, students will be able to identify the key components of an effective policy, including clarity, structure, and enforceability.
