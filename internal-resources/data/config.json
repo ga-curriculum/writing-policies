@@ -20,8 +20,8 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "What is Policy Writing and Why is it Important?",
-          "dirName": "policy-writing",
+          "friendlyName": "Concepts",
+          "dirName": "concepts",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -30,8 +30,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Key Elements of an Effective Policy",
-          "dirName": "key-elements",
+          "friendlyName": "The Key Elements of an Effective Policy",
+          "dirName": "the-key-elements-of-an-effective-policy",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -40,8 +40,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Best Practices and Common Pitfalls",
-          "dirName": "best-practices-and-pitfalls",
+          "friendlyName": "Best Practices and Pitfalls of Policy Writing",
+          "dirName": "best-practices-and-pitfalls-of-policy-writing",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -79,8 +79,8 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "What is Policy Writing and Why is it Important?",
-          "dirName": "policy-writing",
+          "friendlyName": "Concepts",
+          "dirName": "concepts",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -89,8 +89,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Key Elements of an Effective Policy",
-          "dirName": "key-elements",
+          "friendlyName": "The Key Elements of an Effective Policy",
+          "dirName": "the-key-elements-of-an-effective-policy",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -99,8 +99,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Best Practices and Common Pitfalls",
-          "dirName": "best-practices-and-pitfalls",
+          "friendlyName": "Best Practices and Pitfalls of Policy Writing",
+          "dirName": "best-practices-and-pitfalls-of-policy-writing",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
